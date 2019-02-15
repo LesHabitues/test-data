@@ -6,13 +6,15 @@ Below are the details of the content
 - id : Unique ID of the transaction
 - account_id : Customers account ID
 - payment_mode_id : Payment mode ID of the transaction
-  1. Credit Card
-  2. Check
-  3. Cash
-  4. LesHabitués (for all debits mainly)
-  5. Other
-  6. Multiple payments mode
-  7. French Titre restaurant
+  - 1 Credit Card
+  - 2 Check
+  - 3 Cash
+  - 4 LesHabitués (for all debits mainly)
+  - 5 Other
+  - 6 (not used)
+  - 7 Multiple payments mode
+  - 8 Gift cards
+  - 9 French Titre restaurant
 - credit : Amount of the credit including cashback_amount
 - debit : Amount of the debit
 - cashback_amount : Amount of the cashback offered for a credit
